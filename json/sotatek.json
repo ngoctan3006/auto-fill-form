@@ -1,0 +1,351 @@
+[
+  {
+    "question": "Trong tình huống khi một nhân viên dự án đã lộ source code front end chứa thông tin mật của khách hàng lên Github public, bạn nghĩ nên thực hiện hành động nào đầu tiên để giải quyết tình huống này?",
+    "answer": [
+      "Thực hiện kiểm tra ngăn chặn truy cập vào Github và yêu cầu khách hàng xem xét lại việc cung cấp quyền truy cập",
+      "Yêu cầu toàn bộ nhân viên dự án khai báo sử dụng máy tính cá nhân với bộ phận IT để có sự hỗ trợ và kiểm soát trước khi sử dụng trong dự án",
+      "Thực hiện cuộc họp để phân tích ảnh hưởng và biện pháp xử lý sau khi xảy ra sự cố và không cần thay đổi quy định công ty liên quan đến bảo mật thông tin",
+      "Tiến hành xóa ngay lập tức tất cả source code từ Github public và áp dụng các biện pháp bảo mật phù hợp"
+    ]
+  },
+  {
+    "question": "Ai được phép ra vào và sử dụng các khu vực hạn chế và khu vực bảo mật của Công ty theo quy định?",
+    "answer": [
+      "Nhân viên có yêu cầu đặc biệt và được quản lý trực tiếp chấp thuận",
+      "Nhân viên được bộ phận Admin phê duyệt",
+      "Chỉ các nhân viên có thẩm quyền và được ghi vào nhật ký truy cập",
+      "Tất cả nhân viên của Công ty"
+    ]
+  },
+  {
+    "question": "Nhân viên làm việc trong dự án có được clone source code của khách hàng và các scope khác ngoài phạm vi công việc của mình về máy cá nhân không?",
+    "answer": [
+      "Tuỳ repo nhân viên đánh giá cần thiết để clone về hay không",
+      "Được phép clone mọi repo",
+      "Tuyệt đối không"
+    ]
+  },
+  {
+    "question": "Một đồng nghiệp muốn mượn tài khoản email công ty của bạn để gửi một email quan trọng. Bạn sẽ làm gì trong tình huống này?",
+    "answer": [
+      "Bạn cho phép đồng nghiệp mượn laptop của bạn để gửi email",
+      "Bạn mở email và gửi thay cho đồng nghiệp",
+      "Bạn từ chối đề nghị và nhắc nhở đồng nghiệp về quy định không cho phép mượn tài khoản email công ty",
+      "Bạn gửi tài khoản và mật khẩu của bạn cho đồng nghiệp để anh ta gửi email"
+    ]
+  },
+  {
+    "question": "Trong trường hợp một nhân viên tạm thời rời khỏi công ty để tham gia một dự án của khách hàng, tài sản nào sẽ được coi là tài sản của khách hàng và tài sản nào sẽ là tài sản của Công ty SotaTek?",
+    "answer": [
+      "Tài sản vật lý và tài sản phần mềm của nhân viên sẽ là tài sản của khách hàng, tài sản còn lại sẽ là tài sản của Công ty SotaTek",
+      "Tất cả các tài sản sẽ là tài sản của khách hàng",
+      "Tài sản con người và tài sản thông tin của nhân viên sẽ là tài sản của khách hàng, tài sản còn lại sẽ là tài sản của Công ty SotaTek",
+      "Tài sản dịch vụ và tài sản phần mềm của nhân viên sẽ là tài sản của khách hàng, tài sản còn lại sẽ là tài sản của Công ty SotaTek"
+    ]
+  },
+  {
+    "question": "Điều gì cần thực hiện khi nhân viên có nhu cầu ở lại làm việc qua đêm hoặc vào ngày lễ?",
+    "answer": [
+      "Liên hệ trực tiếp với CEO của công ty",
+      "Gửi email thông báo sau khi ở lại làm việc",
+      "Đăng ký, thông báo trước với bộ phận Admin",
+      "Không cần thông báo gì, tự do ở lại làm việc"
+    ]
+  },
+  {
+    "question": "Tại sao yêu cầu đổi mật khẩu định kỳ là một phần quan trọng của chính sách bảo mật?",
+    "answer": [
+      "Để tạo ra các mật khẩu phức tạp hơn",
+      "Để đảm bảo tính an toàn của mật khẩu cũ trong thời gian dài",
+      "Để tăng khả năng sử dụng các mật khẩu dễ nhớ",
+      "Để giảm bớt công việc cho bộ phận hỗ trợ kỹ thuật"
+    ]
+  },
+  {
+    "question": "Theo ISO/IEC 27001:2013, tại sao thông tin được coi là một loại tài sản và cần được bảo vệ thích hợp trong một tổ chức?",
+    "answer": [
+      "Để tăng cường sự thoải mái cho nhân viên trong công việc hàng ngày",
+      "Để giúp quản lý tổ chức dễ dàng theo dõi hiệu suất của nhân viên",
+      "Để thể hiện sự quan trọng của dữ liệu trong các báo cáo tài chính của công ty",
+      "Để đảm bảo tính bí mật, toàn vẹn và sẵn sàng của thông tin quan trọng cho hoạt động kinh doanh của tổ chức"
+    ]
+  },
+  {
+    "question": "Bạn đang làm việc với tài liệu quan trọng của dự án trên máy tính. Một đồng nghiệp ngồi cạnh yêu cầu bạn chia sẻ tài liệu này với anh ấy để tiện tham khảo. Tuy nhiên, bạn biết rằng tài liệu này chứa thông tin mật và không được phép chia sẻ với người ngoài dự án. Bạn sẽ hành động như thế nào trong tình huống này ?",
+    "answer": [
+      "Tìm cách gỡ bỏ thông tin mật khỏi tài liệu trước khi chia sẻ",
+      "Chia sẻ tài liệu vì đó là đồng nghiệp thân thiết trong công ty",
+      "Từ chối yêu cầu của đồng nghiệp vì tính bí mật của tài liệu",
+      "Yêu cầu đồng nghiệp nói với quản lý về yêu cầu chia sẻ tài liệu này"
+    ]
+  },
+  {
+    "question": "Trong tình huống khi một nhân viên dự án đã upload tài liệu mật chứa thông tin tài sản của khách hàng lên một dịch vụ web public, bạn nghĩ nên thực hiện hành động nào đầu tiên để giải quyết tình huống này?",
+    "answer": [
+      "Tiến hành xóa tài liệu từ dịch vụ web public và áp dụng biện pháp bảo mật phù hợp",
+      "Xem xét việc sa thải nhân viên vi phạm sau khi xử lý tình huống",
+      "Thông báo cho toàn bộ đội dự án về sự cố và yêu cầu đề cao bảo mật thông tin",
+      "Đề nghị khách hàng xem xét lại quyết định về việc sử dụng dự án"
+    ]
+  },
+  {
+    "question": "Nếu bạn cần truy cập vào dữ liệu nằm trong một phân vùng được phân quyền mà bạn không có quyền truy cập, bạn sẽ làm gì?",
+    "answer": [
+      "Bỏ qua và không truy cập dữ liệu đó",
+      "Sử dụng tài khoản của một người khác để truy cập dữ liệu",
+      "Tìm kiếm một cách khác để truy cập dữ liệu",
+      "Yêu cầu quản trị viên cấp quyền truy cập cho bạn"
+    ]
+  },
+  {
+    "question": "Bạn phải tham gia một cuộc họp quan trọng ở một tầng khác của Công ty ngay lập tức. Trước khi rời bàn làm việc, bạn nên làm gì?",
+    "answer": [
+      "Cất ngay các tài liệu và khóa màn hình máy tính lại",
+      "Đặt máy tính ở chế độ chờ",
+      "Nhờ đồng nghiệp bên cạnh trông giữ hộ",
+      "Đăng xuất tài khoản mail công ty ra khỏi tất cả các tab đang dùng"
+    ]
+  },
+  {
+    "question": "Trong quá trình bàn giao thông tin cho khách hàng và lưu trữ dữ liệu, điều gì cần được tuân thủ?",
+    "answer": [
+      "Thông tin có thể được thay đổi trước khi bàn giao cho khách hàng",
+      "Thông tin có thể được thay đổi mà không cần thông báo cho khách hàng",
+      "Dữ liệu phải được lưu trữ an toàn và chỉ những người được ủy quyền từ dự án được phép truy cập và sử dụng",
+      "Dữ liệu có thể được lưu trữ mà không cần bất kỳ biện pháp bảo vệ nào"
+    ]
+  },
+  {
+    "question": "Tại sao thông tin của khách hàng, thông tin ngân hàng và thông tin các bên liên quan khác được coi là một phần quan trọng của tài sản thông tin của doanh nghiệp?",
+    "answer": [
+      "Thông tin này ảnh hưởng đến quyền riêng tư của nhân viên",
+      "Thông tin này có giá trị cao hơn thông tin nội bộ của doanh nghiệp",
+      "Thông tin này đóng vai trò trong việc duy trì quan hệ, giao dịch và uy tín của doanh nghiệp",
+      "Thông tin này ảnh hưởng đến quyết định của CEO"
+    ]
+  },
+  {
+    "question": "Tại sao quy định \"Người dùng không được sử dụng chung tài khoản\" quan trọng trong việc đảm bảo an toàn thông tin và dữ liệu của công ty?",
+    "answer": [
+      "Tạo sự nhất quán trong việc sử dụng hệ thống",
+      "Giảm thiểu rủi ro mất dữ liệu",
+      "Dễ dàng quản lý các tài khoản",
+      "Đảm bảo tính cá nhân hóa và truy vết hoạt động của người dùng"
+    ]
+  },
+  {
+    "question": "Một số trang web bạn cần truy cập để thực hiện công việc bị chặn bởi tường lửa của công ty. Bạn không muốn vi phạm chính sách của công ty, nhưng bạn cần truy cập những thông tin trên các trang web đó. Trong tình huống này, bạn sẽ làm gì?",
+    "answer": [
+      "Bạn sẽ không truy cập các trang web đó và tìm cách khác để thực hiện công việc của mình",
+      "Bạn sẽ thử sử dụng các công cụ vượt tường lửa (proxy) để truy cập các trang web đó, vì bạn cần thông tin từ chúng",
+      "Bạn sẽ báo cáo về tình huống này cho bộ phận IT hoặc người quản lý của bạn và hỏi họ về giải pháp hoặc xem xét việc mở các trang web này",
+      "Bạn sẽ thử sử dụng mạng di động cá nhân để truy cập các trang web đó mà không cần thông qua mạng công ty"
+    ]
+  },
+  {
+    "question": "Công ty SotaTek đã phân chia môi trường vật lý gồm những vành đai an toàn khác nhau. Theo bạn, hành động này nhằm mục đích gì?",
+    "answer": [
+      "Để tạo không gian làm việc thoải mái cho nhân viên",
+      "Để phân chia khu vực an toàn nhằm quản lý và bảo vệ tài sản, thông tin và dữ liệu của công ty tại từng khu vực tương ứng đó",
+      "Để tiết kiệm chi phí công ty",
+      "Để quản lý thời gian làm việc của nhân viên"
+    ]
+  },
+  {
+    "question": "Theo yêu cầu về mật khẩu, một mật khẩu an toàn cần phải đáp ứng những điều kiện gì?",
+    "answer": [
+      "Mật khẩu phải chứa ít nhất 8 ký tự và không cần phải có các yêu cầu đặc biệt",
+      "Mật khẩu phải có ít nhất 8 ký tự và phải chứa ít nhất 3 yêu cầu: ký tự in hoa, ký tự in thường, ký tự số, các ký tự đặc biệt",
+      "Mật khẩu chỉ cần chứa ít nhất 4 ký tự, và phải chứa ít nhất 3 yêu cầu: ký tự in hoa, ký tự in thường, ký tự số, các ký tự đặc biệt",
+      "Mật khẩu phải chứa ít nhất 12 ký tự và không cần phải có các yêu cầu đặc biệt"
+    ]
+  },
+  {
+    "question": "Một đồng nghiệp yêu cầu mượn máy tính của bạn trong một khoảng thời gian ngắn để hoàn thành công việc quan trọng. Bạn nên làm gì để đảm bảo tính an toàn và tuân thủ quy định bảo mật của công ty?",
+    "answer": [
+      "Đảm bảo kiểm soát và giám sát đồng nghiệp khi họ sử dụng máy tính",
+      "Để máy tính ở trạng thái đăng nhập và không thực hiện bất kỳ hành động nào",
+      "Cho đồng nghiệp sử dụng máy tính mà không cần kiểm soát",
+      "Tạo một tài khoản tạm thời cho đồng nghiệp để họ có thể sử dụng máy tính"
+    ]
+  },
+  {
+    "question": "Bạn nhận được một cuộc điện thoại từ một người xác nhận là nhân viên IT của công ty, người đó yêu cầu bạn cung cấp mật khẩu của tài khoản email của mình để họ kiểm tra vấn đề kỹ thuật. Bạn sẽ làm gì trong tình huống này?",
+    "answer": [
+      "Yêu cầu người xác nhận cung cấp thông tin cá nhân của họ trước khi bạn cung cấp mật khẩu",
+      "Từ chối yêu cầu của họ",
+      "Liên hệ với leader Bộ phận IT của công ty để xác minh thông tin",
+      "Cung cấp ngay mật khẩu để giúp người xác nhận kiểm tra vấn đề"
+    ]
+  },
+  {
+    "question": "Hậu quả chính của một sự cố bảo mật thông tin là gì trong mối quan hệ của công ty với khách hàng?",
+    "answer": [
+      "Tạo ra cơ hội kinh doanh mới",
+      "Mất lòng tin từ khách hàng và nguy cơ hủy hợp đồng",
+      "Không ảnh hưởng đến quan hệ với khách hàng",
+      "Sự suy yếu về khả năng kỹ thuật của công ty"
+    ]
+  },
+  {
+    "question": "Khu vực phòng server được xếp vào danh mục nào trong các khu vực an toàn vật lý môi trường của công ty SotaTek?",
+    "answer": ["Khu vực bảo mật", "Khu vực hạn chế", "Không thuộc danh mục nào", "Khu vực chung"]
+  },
+  {
+    "question": "Trong danh sách các loại tài sản quản lý của Công ty SotaTek, loại tài sản nào có vai trò quan trọng trong xây dựng và duy trì mối quan hệ với khách hàng, đòi hỏi kiến thức về kỹ năng giao tiếp và quản lý mối quan hệ?",
+    "answer": ["Tài sản vật lý", "Tài sản con người", "Tài sản thông tin", "Tài sản dịch vụ"]
+  },
+  {
+    "question": "Khi sử dụng laptop cá nhân có chứa dữ liệu và thông tin liên quan đến Công ty, bạn nên thực hiện những biện pháp nào để đảm bảo an toàn và bảo mật cho các dữ liệu và thông tin này?",
+    "answer": [
+      "Bạn có thể chia sẻ dữ liệu công ty qua email cá nhân để thuận tiện cho công việc",
+      "Bạn không cần quan tâm đến việc bảo mật dữ liệu trên laptop cá nhân vì đó là trách nhiệm của phòng IT của Công ty",
+      "Bạn nên sử dụng mật khẩu mạnh để khóa máy tính và mã hóa dữ liệu quan trọng",
+      "Bạn nên sao lưu dữ liệu quan trọng vào USB một cách định kỳ để đảm bảo an toàn"
+    ]
+  },
+  {
+    "question": "Nhân viên bị phát hiện đã để lộ thông tin bí mật của công ty. Họ sẽ bị xử phạt căn cứ vào những yếu tố nào sau đây?",
+    "answer": [
+      "Tính chất của thông tin bị lộ",
+      "Chức vụ của nhân viên vi phạm",
+      "Giới tính của nhân viên vi phạm",
+      "Mức độ rủi ro và thiệt hại thực tế gây ra"
+    ]
+  },
+  {
+    "question": "Trong môi trường làm việc của công ty, nhân viên cần phải tuân thủ yêu cầu nào sau đây liên quan đến sử dụng máy tính để đảm bảo tính an toàn và tuân thủ quy định bảo mật?",
+    "answer": [
+      "Không bao giờ chia sẻ mật khẩu cá nhân với ai khác, kể cả đồng nghiệp thân thiết",
+      "Luôn để máy tính ở trạng thái đăng nhập khi không làm việc để tiết kiệm thời gian",
+      "Tải và cài đặt phần mềm từ các nguồn không xác thực trên internet để tiết kiệm tiền",
+      "Sử dụng mật khẩu dễ đoán như \"123456\" để dễ nhớ"
+    ]
+  },
+  {
+    "question": "Trong quá trình phát triển và quản lý source code (SC) tại Công ty, có những quy định nào được áp dụng để đảm bảo bảo mật và an toàn cho mã nguồn?",
+    "answer": [
+      "Tuân thủ quy trình coding của Công ty và chạy kiểm thử đơn vị cho SC",
+      "Lưu trữ SC và các tài liệu liên quan một cách bình thường, không cần ghi chép cụ thể",
+      "Không cần thực hiện bất kỳ biện pháp nào, vì SC không liên quan đến bảo mật",
+      "Thực hiện việc review và đánh giá SC sau khi phát triển"
+    ]
+  },
+  {
+    "question": "Trong trường hợp khách hàng không cho phép sử dụng mã nguồn mở hoặc thư viện mã nguồn của bên thứ 3, dự án phải thực hiện điều gì?",
+    "answer": [
+      "Tuyệt đối không sử dụng bất kỳ mã nguồn/thư viện bên ngoài nào nếu khách hàng không cho phép",
+      "Sử dụng bất kỳ mã nguồn/thư viện bên ngoài nào mà dự án cần mà không cần sự cho phép của khách hàng",
+      "Tự tạo ra mã nguồn mới mà không cần mã nguồn bên ngoài",
+      "Chỉ sử dụng mã nguồn mở và thư viện mã nguồn của bên thứ 3"
+    ]
+  },
+  {
+    "question": "Trong quá trình kiểm tra bảo mật phần mềm của dự án, bạn phát hiện một số lỗ hổng. Hãy xác định cách bạn sẽ ưu tiên xử lý chúng dựa trên mức độ nghiêm trọng của lỗ hổng",
+    "answer": [
+      "Xử lý trước các lỗ hổng nghiêm trọng, sau đó xử lý các lỗ hổng trung bình và thấp",
+      "Không xử lý bất kỳ lỗ hổng nào và chấp nhận chúng chúng không nghiêm trọng",
+      "Xử lý tất cả các lỗ hổng ngay lập tức, không quan trọng mức độ nghiêm trọng",
+      "Lên kế hoạch xử lý các lỗ hổng nghiêm trọng và trung bình, còn các lỗ hổng thấp bỏ qua"
+    ]
+  },
+  {
+    "question": "Khi bạn nhận thấy một vấn đề liên quan an toàn thông tin trong công ty, bạn nên làm gì?",
+    "answer": [
+      "Thông báo ngay lập tức cho quản lý trực tiếp và bộ phận IT chậm nhất trong vòng 15 phút",
+      "Nhờ đồng nghiệp khác giúp bạn giải quyết vấn đề",
+      "Bắt đầu tìm hiểu vấn đề để xem liệu bạn có thể tự giải quyết được không",
+      "Giải quyết vấn đề một mình và sau đó báo cáo nếu cần thiết"
+    ]
+  },
+  {
+    "question": "Bạn cần chia sẻ tài liệu quan trọng với các thành viên trong nhóm. Phương tiện nào sau đây là tùy chọn an toàn nhất để chia sẻ tài liệu trong trường hợp này?",
+    "answer": [
+      "Lưu tài liệu trên USB và đưa cho các thành viên sao chép",
+      "Sử dụng dịch vụ lưu trữ đám mây có tính năng bảo mật, như Google Drive hoặc Dropbox, và chia sẻ tài liệu qua đó",
+      "In tài liệu và gửi bản giấy cho các thành viên",
+      "Gửi tài liệu qua email cho tất cả thành viên"
+    ]
+  },
+  {
+    "question": "Trong quá trình viết source code (SC) cho dự án, khi khách hàng cho phép sử dụng mã nguồn mở hoặc SC từ bên thứ 3, dự án cần tuân theo quy định gì?",
+    "answer": [
+      "Dự án có thể sử dụng mã/thư viện mã nguồn mở hoặc SC mà không cần tuân theo bất kỳ quy định nào",
+      "Dự án phải tuân theo thỏa thuận cấp phép của mã/thư viện mã nguồn mở hoặc SC đó và lấy mã cấp phép nếu cần",
+      "Dự án không được sử dụng mã/thư viện mã nguồn mở hoặc SC từ bên thứ 3",
+      "Dự án chỉ cần báo cáo với khách hàng về việc sử dụng mã/thư viện mã nguồn mở hoặc SC, không cần tuân theo bất kỳ quy định nào"
+    ]
+  },
+  {
+    "question": "Bạn làm việc trong một môi trường công sở và nhận được một email nội dung chứa những lời lẽ không phù hợp và xúc phạm đến một người đồng nghiệp. Bạn sẽ làm gì trong tình huống này?",
+    "answer": [
+      "Bạn không phản hồi email đó",
+      "Bạn gửi email đó cho tất cả người đồng nghiệp để chia sẻ",
+      "Bạn trả lời email với những lời lẽ tương tự",
+      "Bạn chuyển email đó đến người quản lý hoặc bộ phận HR"
+    ]
+  },
+  {
+    "question": "Nhân viên cần làm gì khi muốn ra vào vào khu vực hạn chế: tủ hồ sơ của bộ phận kế toán, C&B, HR, IT và phòng kho thiết bị?",
+    "answer": [
+      "Nhân viên cần liên hệ với trưởng bộ phận để xin giấy phép",
+      "Nhân viên không cần liên hệ với ai vì nhân viên vẫn có thể ra vào được khu vực đó",
+      "Nhân viên cần liên hệ với người có thẩm quyền để được cho phép ra vào khu vực hạn chế",
+      "Nhân viên cần liên hệ với bộ phận IT để được hỗ trợ"
+    ]
+  },
+  {
+    "question": "Nếu bạn phát hiện một lỗ hổng bảo mật trên hệ thống của công ty, bạn sẽ làm gì?",
+    "answer": [
+      "Thử giải quyết vấn đề một cách độc lập",
+      "Giữ im lặng và không tham gia vào tình huống",
+      "Báo cáo cho bộ phận IT của công ty ngay lập tức",
+      "Chia sẻ thông tin với tất cả nhân viên trong công ty"
+    ]
+  },
+  {
+    "question": "Trong tình huống một nhân viên chia sẻ thông tin không nằm trong phạm vi công việc với khách hàng và gây ra những tác động tiêu cực cho dự án và quan hệ kinh doanh, bạn sẽ thực hiện hành động nào để giải quyết tình huống này?",
+    "answer": [
+      "Bạn yêu cầu đồng nghiệp đó tự sửa lỗi với khách hàng",
+      "Bạn sẽ không làm gì cả và để đồng nghiệp tự giải quyết",
+      "Bạn sẽ ngay lập tức thông báo cho cấp trên và bộ phận Sales về việc xảy ra",
+      "Bạn sẽ thử thuyết phục khách hàng rằng thông tin không chính xác hoặc đã bị hiểu sai và cố gắng làm rõ cho họ"
+    ]
+  },
+  {
+    "question": "Khi bạn cần sử dụng laptop cá nhân của mình ngoài trụ sở Công ty để làm việc hoặc truy cập vào dữ liệu công ty, bạn sẽ thực hiện biện pháp nào để đảm bảo an toàn thông tin và dữ liệu của Công ty?",
+    "answer": [
+      "Bạn sẽ sử dụng dữ liệu công ty trực tiếp trên laptop cá nhân để thuận tiện cho công việc và sau đó sao lưu lại khi trở về công ty",
+      "Bạn sẽ không thực hiện công việc này vì lo ngại về an toàn thông tin và dữ liệu của Công ty",
+      "Bạn sẽ sử dụng mạng công ty từ xa (VPN) để kết nối với hệ thống Công ty và truy cập vào dữ liệu qua kết nối an toàn",
+      "Bạn sẽ sao lưu dữ liệu trước khi ra ngoài và chỉ sử dụng dữ liệu sao lưu trên laptop cá nhân mà không truy cập trực tiếp vào dữ liệu công ty"
+    ]
+  },
+  {
+    "question": "Dự án sử dụng tool autobuild trên github để cải thiện tốc độ build server, một thành viên đã sơ suất đẩy lên server một file cấu hình chứa các key truy cập vào AWS, dẫn đến truy cập trái phép vào AWS. Đâu là biện pháp cần được thực hiện ngay lập tức để khắc phục sự cố và ngăn chặn truy cập trái phép vào AWS?",
+    "answer": [
+      "Tổ chức cuộc họp nhắc nhở và đào tạo bảo mật cho đội dự án",
+      "Xóa tài khoản access của người dùng ẩn danh và công cụ autobuild trên Github",
+      "Thông báo cho khách hàng về sự cố và xin lỗi",
+      "Tạo các biện pháp bảo mật bổ sung trên AWS"
+    ]
+  },
+  {
+    "question": "Một đồng nghiệp đã nộp đơn xin nghỉ việc và trước đó bạn thấy người đó sao chép một số tài liệu quan trọng của công ty vào USB và có ý định mang đi. Bạn sẽ xử lý tình huống này như thế nào?",
+    "answer": [
+      "Không làm gì cả, vì đó là quyền của họ khi nghỉ việc",
+      "Báo cáo tình huống cho cấp trên và bộ phận IT, QA để xem xét",
+      "Làm mất USB của họ để ngăn họ lấy đi tài liệu",
+      "Liên hệ trực tiếp với đồng nghiệp đó, yêu cầu họ trả lại USB và tài liệu"
+    ]
+  },
+  {
+    "question": "Bạn phát hiện máy tính của một đồng nghiệp bị nhiễm virus sau khi đồng nghiệp này bị lộ password Skype. Bạn nên thực hiện hành động gì để khắc phục phòng ngừa tình huống tương tự trong tương lai?",
+    "answer": [
+      "Tiếp tục sử dụng Skype như bình thường và cẩn thận hơn về việc lộ password",
+      "Bật chế độ quét virus trên máy tính của bạn và những người khác",
+      "Liên hệ với bộ phận IT để họ kiểm tra và xử lý máy tính bị nhiễm virus",
+      "Gửi một email cho tất cả nhân viên trong công ty cảnh báo về tình huống này"
+    ]
+  }
+]

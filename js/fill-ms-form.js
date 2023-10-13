@@ -1,7 +1,8 @@
+const dataUrl =
+  'https://script.google.com/macros/s/AKfycbx5JmnNTgQDlJm8qjIpO9swuVl3gnsA02oeoX9-53Hz9_NbwuTg7d_LE3ZrRYAFHvnTJQ/exec';
+
 async function fillForm(formName) {
-  const data = await fetch(
-    `https://script.google.com/macros/s/AKfycbwjtbxFHTEEd3owb9VPdeYsDQOeMuD3TGHqWwESIwEl9sAb3AmBthFeOCEk_nx1bT33eQ/exec?name=${formName}`
-  ).then((res) => res.json());
+  const data = await fetch(`${dataUrl}?name=${formName}`).then((res) => res.json());
 
   const allQuest = document.querySelectorAll('div[data-automation-id="questionItem"]');
 
@@ -24,4 +25,4 @@ function formatText(text) {
   return text.replace(/\s+/g, ' ').replace(/“|”/g, '"').replace(/–/g, '-').normalize('NFC');
 }
 
-fillForm('quyche');
+fillForm('ttvh');

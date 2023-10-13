@@ -1,7 +1,8 @@
+const dataUrl =
+  'https://script.google.com/macros/s/AKfycbx5JmnNTgQDlJm8qjIpO9swuVl3gnsA02oeoX9-53Hz9_NbwuTg7d_LE3ZrRYAFHvnTJQ/exec';
+
 async function fillForm(formName) {
-  const data = await fetch(
-    `https://script.google.com/macros/s/AKfycbxj6y3q_uggix4E3LXJeSABsQobP9l7WV0Pp8sT7F013xtVbi2Rk_QJT70wrLobTwhG4g/exec?name=${formName}`
-  ).then((res) => res.json());
+  const data = await fetch(`${dataUrl}?name=${formName}`).then((res) => res.json());
 
   const allQuest = document.querySelectorAll('div[role="listitem"]');
 
